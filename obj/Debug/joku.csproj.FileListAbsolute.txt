@@ -1,0 +1,7 @@
+c:\users\kaisa\source\repos\joku\joku\bin\Debug\joku.exe.config
+c:\users\kaisa\source\repos\joku\joku\bin\Debug\joku.exe
+c:\users\kaisa\source\repos\joku\joku\bin\Debug\joku.pdb
+c:\users\kaisa\source\repos\joku\joku\obj\Debug\joku.csprojResolveAssemblyReference.cache
+c:\users\kaisa\source\repos\joku\joku\obj\Debug\joku.csproj.CoreCompileInputs.cache
+c:\users\kaisa\source\repos\joku\joku\obj\Debug\joku.exe
+c:\users\kaisa\source\repos\joku\joku\obj\Debug\joku.pdb
