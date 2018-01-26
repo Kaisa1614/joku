@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace joku
 {
-    class Program
+    public class MerkkijonoLaskin
     {
-        static void Main(string[] args)
+        public int Summa(string luvut)
         {
+            return 0;
         }
     }
 }
