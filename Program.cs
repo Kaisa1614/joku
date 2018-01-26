@@ -8,9 +8,10 @@ namespace joku
 {
     public class MerkkijonoLaskin
     {
-        public int Summa(string luvut)
+
+        static void Main(string[] arg)
         {
-            return 0;
+
         }
     }
 }
